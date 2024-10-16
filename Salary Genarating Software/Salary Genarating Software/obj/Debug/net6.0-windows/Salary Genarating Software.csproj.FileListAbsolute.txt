@@ -1,0 +1,21 @@
+C:\Users\Dulan Liyanarachchi\source\repos\Salary Genarating Software\Salary Genarating Software\bin\Debug\net6.0-windows\Salary Genarating Software.exe
+C:\Users\Dulan Liyanarachchi\source\repos\Salary Genarating Software\Salary Genarating Software\bin\Debug\net6.0-windows\Salary Genarating Software.deps.json
+C:\Users\Dulan Liyanarachchi\source\repos\Salary Genarating Software\Salary Genarating Software\bin\Debug\net6.0-windows\Salary Genarating Software.runtimeconfig.json
+C:\Users\Dulan Liyanarachchi\source\repos\Salary Genarating Software\Salary Genarating Software\bin\Debug\net6.0-windows\Salary Genarating Software.dll
+C:\Users\Dulan Liyanarachchi\source\repos\Salary Genarating Software\Salary Genarating Software\bin\Debug\net6.0-windows\Salary Genarating Software.pdb
+C:\Users\Dulan Liyanarachchi\source\repos\Salary Genarating Software\Salary Genarating Software\obj\Debug\net6.0-windows\Salary Genarating Software.csproj.AssemblyReference.cache
+C:\Users\Dulan Liyanarachchi\source\repos\Salary Genarating Software\Salary Genarating Software\obj\Debug\net6.0-windows\Salary_Genarating_Software.Form1.resources
+C:\Users\Dulan Liyanarachchi\source\repos\Salary Genarating Software\Salary Genarating Software\obj\Debug\net6.0-windows\Salary Genarating Software.csproj.GenerateResource.cache
+C:\Users\Dulan Liyanarachchi\source\repos\Salary Genarating Software\Salary Genarating Software\obj\Debug\net6.0-windows\Salary Genarating Software.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dulan Liyanarachchi\source\repos\Salary Genarating Software\Salary Genarating Software\obj\Debug\net6.0-windows\Salary Genarating Software.AssemblyInfoInputs.cache
+C:\Users\Dulan Liyanarachchi\source\repos\Salary Genarating Software\Salary Genarating Software\obj\Debug\net6.0-windows\Salary Genarating Software.AssemblyInfo.cs
+C:\Users\Dulan Liyanarachchi\source\repos\Salary Genarating Software\Salary Genarating Software\obj\Debug\net6.0-windows\Salary Genarating Software.csproj.CoreCompileInputs.cache
+C:\Users\Dulan Liyanarachchi\source\repos\Salary Genarating Software\Salary Genarating Software\obj\Debug\net6.0-windows\Salary Genarating Software.dll
+C:\Users\Dulan Liyanarachchi\source\repos\Salary Genarating Software\Salary Genarating Software\obj\Debug\net6.0-windows\refint\Salary Genarating Software.dll
+C:\Users\Dulan Liyanarachchi\source\repos\Salary Genarating Software\Salary Genarating Software\obj\Debug\net6.0-windows\Salary Genarating Software.pdb
+C:\Users\Dulan Liyanarachchi\source\repos\Salary Genarating Software\Salary Genarating Software\obj\Debug\net6.0-windows\Salary Genarating Software.genruntimeconfig.cache
+C:\Users\Dulan Liyanarachchi\source\repos\Salary Genarating Software\Salary Genarating Software\obj\Debug\net6.0-windows\ref\Salary Genarating Software.dll
+C:\Users\Dulan Liyanarachchi\source\repos\Salary Genarating Software\Salary Genarating Software\obj\Debug\net6.0-windows\Salary_Genarating_Software.Form2.resources
+C:\Users\Dulan Liyanarachchi\source\repos\Salary Genarating Software\Salary Genarating Software\obj\Debug\net6.0-windows\Salary_Genarating_Software.Properties.Resources.resources
+C:\Users\Dulan Liyanarachchi\source\repos\Salary Genarating Software\Salary Genarating Software\obj\Debug\net6.0-windows\Salary_Genarating_Software.Form3.resources
+C:\Users\Dulan Liyanarachchi\source\repos\Salary Genarating Software\Salary Genarating Software\obj\Debug\net6.0-windows\Salary_Genarating_Software.Form4.resources
